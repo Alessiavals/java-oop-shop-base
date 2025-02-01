@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        // VALORIZZO GLI OGGETTI DI PIASTRA 
+        // VALORIZZO PIASTRA 
 
         Prodotto piastra = new Prodotto();
         piastra.nome = "GHD-";
@@ -25,7 +25,7 @@ public class Main {
         System.out.println("------------Passiamo al prossimo prodotto:-------------");
 
 
-        // VALORIZZO GLI OGGETTI DELLO SHAMPOO
+        // VALORIZZO SHAMPOO
 
         Prodotto shampoo = new Prodotto();
         shampoo.nome = "Pantene";
